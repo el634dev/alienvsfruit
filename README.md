@@ -3,3 +3,7 @@
 
 # Purpose
 > Created for practice using Pygame
+
+# Language &  Tools
+> Python3
+> VSCode
