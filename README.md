@@ -4,6 +4,6 @@
 # Purpose
 > Created for practice using Pygame
 
-# Language &  Tools
+# Language & Tools
 > Python3
 > VSCode
